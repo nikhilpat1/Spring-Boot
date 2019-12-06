@@ -46,8 +46,7 @@ public class LoginController {
 
              }
          else {
-        	 
-            // login failed logic
+   
         }
         return modelAndView;
     }
